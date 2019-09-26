@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultAliasFile>
+    <Map Name="main" Link="/Content/Home.htm" />
+    <Map Name="appointment" Link="/Content/Appointments/Appointments.htm" />
+    <Map Name="appointment-filter" Link="/Content/Appointments/AppointmentsFilter.htm" />
+    <Map Name="appointment-toolbar" Link="/Content/Appointments/AppointmentsToolbar.htm" />
+    <Map Name="appointment-flags" Link="/Content/Appointments/AppointmentsFlags.htm" />
+</CatapultAliasFile>
